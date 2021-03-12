@@ -39,6 +39,10 @@ class Graph(object):
 
         return res
 
+    def dijkstra(self, nd_entre: Noeud, nd_sortie: Noeud):
+        sousGraphe = {nd_entre: 0}
+        pass
+
 # -------------------------------------
     def ajouterNoeud(self, nd: Noeud):
         if not nd in self._noeuds:
