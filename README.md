@@ -3,7 +3,7 @@ Un package python, utile pour la représentation des graph.
 
 
 ### Modéliser un graph :
-Commencer par placer le dossier du package dans votre environement de trvail:
+Commencez par placer le dossier du package dans votre environnement de travail:
 
     MonSuperProjet
     ├─MonMain.py
