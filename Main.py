@@ -8,5 +8,7 @@ parcourProfondeur = graph.parcourProfondeur( graph.getNoeuds()[3] )
 # for i in parcourLargeur:
 #     print(i)
 
-for j in parcourProfondeur:
-    print(j)
+# for j in parcourProfondeur:
+#     print(j)
+
+# print(graph.getArrettes()[0])

@@ -1,9 +1,14 @@
 
 class Noeud(object):
+    """
+    Un Noeud est n point/sommet dans un Graph
+    il peut avoir une valeur
+    """
     def __init__(self, nom: str = ""):
         self._nom=nom
         self._valeur = None
         self._enfants = []
+        # self._parents = [] #TODO
 
     def getNom(self)->str:
         return self._nom
