@@ -33,8 +33,8 @@ monGraph.ajouterNoeud(n3)
 monGraph.ajouterNoeud(n4)
 
 # Et reliez vos Noeuds
-graph.relierNoeuds(n1, n3)
-graph.relierNoeuds(n1, n4)
-graph.relierNoeuds(n3, n2)
+monGraph.relierNoeuds(n1, n3)
+monGraph.relierNoeuds(n1, n4)
+monGraph.relierNoeuds(n3, n2)
 
 ```
